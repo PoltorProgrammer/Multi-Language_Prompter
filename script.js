@@ -4,7 +4,7 @@ const PAUSE_BETWEEN_PHRASES = 500;  // Pause after sentence completes (ms)
 const COMMA_PAUSE = 400;             // Extra pause when a comma is detected (ms)
 
 // Global Delays
-const INITIAL_DELAY = 10;          // Delay before the first phrase starts (ms)
+const INITIAL_DELAY = 1000;          // Delay before the first phrase starts (ms)
 const RESTART_DELAY = 4000;          // Delay before the entire loop restarts (ms)
 
 // State
