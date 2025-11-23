@@ -1,0 +1,180 @@
+
+{
+  "phrases": [
+    {
+      "language": "es",
+      "main": "Hola, soy Tomás, sean bienvenidos a mi curso de español.",
+      "en": "Hello, I'm Tomás, and welcome to my Spanish course.",
+      "zh-cn": "你好，我是托马斯，欢迎参加我的西班牙语课程。",
+      "ru": "Привет, я Томас, добро пожаловать на мой курс испанского языка."
+    },
+    {
+      "language": "es",
+      "main": "Soy de Barcelona, con padre mexicano y madre catalana.",
+      "en": "I'm from Barcelona, with a Mexican father and Catalan mother.",
+      "zh-cn": "我来自巴塞罗那，父亲是墨西哥人，母亲是加泰罗尼亚人。",
+      "ru": "Я из Барселоны, мой отец мексиканец, а мать каталонка."
+    },
+    {
+      "language": "es",
+      "main": "El español es mi lengua paterna y materna, junto con el catalán, y creo que por eso mi acento es bastante neutro e ideal para aprender.",
+      "en": "Spanish is both my paternal and maternal language, along with Catalan, and I think that's why my accent is quite neutral and ideal for learning.",
+      "zh-cn": "西班牙语是我的父语和母语，还有加泰罗尼亚语，我认为这就是为什么我的口音相当中立，非常适合学习。",
+      "ru": "Испанский — это мой отцовский и материнский язык, вместе с каталанским, и я думаю, поэтому мой акцент довольно нейтральный и идеален для обучения."
+    },
+    {
+      "language": "es",
+      "main": "Además, hablo muy bien el inglés puesto que viví en Australia por un año.",
+      "en": "Besides, I speak English very well since I lived in Australia for a year.",
+      "zh-cn": "此外，我英语说得很好，因为我在澳洲住了一年。",
+      "ru": "Кроме того, я очень хорошо говорю по-английски, так как жил в Австралии год."
+    },
+    {
+      "language": "en",
+      "main": "So no worries if you're just starting with Spanish, as we can always start communicating in English.",
+      "en": "So no worries if you're just starting with Spanish, as we can always start communicating in English.",
+      "zh-cn": "所以如果你刚开始学西班牙语也不用担心，我们可以先用英语交流。",
+      "ru": "Так что не волнуйтесь, если вы только начинаете изучать испанский, мы всегда можем начать общение на английском."
+    },
+    {
+      "language": "de",
+      "main": "Ich spreche ein bisschen Deutsch auch, weil ich vier Jahre im Gymnasium Deutsch gelernt habe.",
+      "en": "I also speak a little German because I studied German for four years in high school.",
+      "zh-cn": "我也会说一点德语，因为我在高中学了四年德语。",
+      "ru": "Я также немного говорю по-немецки, потому что изучал немецкий четыре года в гимназии."
+    },
+    {
+      "language": "it",
+      "main": "Inoltre, capisco abbastanza bene l'italiano.",
+      "en": "Furthermore, I understand Italian quite well.",
+      "zh-cn": "此外，我对意大利语理解得相当好。",
+      "ru": "Кроме того, я довольно хорошо понимаю итальянский."
+    },
+    {
+      "language": "fr",
+      "main": "Par ailleurs, je comprends aussi votre français, puisqu'il est similaire au catalan.",
+      "en": "Moreover, I also understand your French, since it's similar to Catalan.",
+      "zh-cn": "此外，我也理解你们的法语，因为它与加泰罗尼亚语相似。",
+      "ru": "Более того, я также понимаю ваш французский, поскольку он похож на каталанский."
+    },
+    {
+      "language": "pt",
+      "main": "E eu também entendo português perfeitamente, e consigo falar um pouco de portañol.",
+      "en": "And I also understand Portuguese perfectly, and can speak a bit of Portuñol.",
+      "zh-cn": "我也完全理解葡萄牙语，并且会说一点葡西混合语。",
+      "ru": "И я также прекрасно понимаю португальский и могу говорить на портуньоле."
+    },
+    {
+      "language": "en",
+      "main": "Right now I'm living in Taiwan…",
+      "en": "Right now I'm living in Taiwan…",      
+      "zh-cn": "我现在住在台湾…",
+      "ru": "Сейчас я живу на Тайване…"
+    },
+    {
+      "language": "zh-tw",
+      "main": "我住在台灣.",
+      "en": "I live in Taiwan.",
+      "zh-cn": "我住在台湾。",
+      "ru": "Я живу на Тайване."
+    },
+    {
+      "language": "en",
+      "main": "And here I'm trying to get some basics of Chinese.",
+      "en": "And here I'm trying to get some basics of Chinese.",      
+      "zh-cn": "在这里我正在学习一些中文基础。",
+      "ru": "И здесь я пытаюсь освоить основы китайского."
+    },
+    {
+      "language": "en",
+      "main": "I've already lived in four different countries and I'm passionate about languages and cultures, which in my opinion, always go side by side.",
+      "en": "I've already lived in four different countries and I'm passionate about languages and cultures, which in my opinion, always go side by side.",      
+      "zh-cn": "我已经在四个不同的国家生活过，我热爱语言和文化，在我看来，它们总是并肩而行。",
+      "ru": "Я уже жил в четырех разных странах и увлекаюсь языками и культурами, которые, на мой взгляд, всегда идут рука об руку."
+    },
+    {
+      "language": "en",
+      "main": "My method is simple, we start with the foundations so later on the building up feels stable with every new brick.",
+      "en": "My method is simple, we start with the foundations so later on the building up feels stable with every new brick.",      
+      "zh-cn": "我的方法很简单，我们从基础开始，这样之后的每一块砖都能稳固地叠加。",
+      "ru": "Мой метод прост: мы начинаем с основ, чтобы потом каждый новый кирпичик ложился устойчиво."
+    },
+    {
+      "language": "en",
+      "main": "I worked four years in education at the Science Museum of Barcelona, and I learned how to adapt my methodology to every type of student.",
+      "en": "I worked four years in education at the Science Museum of Barcelona, and I learned how to adapt my methodology to every type of student.",      
+      "zh-cn": "我在巴塞罗那科学博物馆从事教育工作四年，学会了如何让我的教学方法适应每种类型的学生。",
+      "ru": "Я четыре года работал в образовательном отделе Научного музея Барселоны и научился адаптировать свою методологию к каждому типу учащихся."
+    },
+    {
+      "language": "en",
+      "main": "I now present a structured course prepared for all levels, and as a software developer, I like creating tools, like this one, to help you learn faster and more clearly.",
+      "en": "I now present a structured course prepared for all levels, and as a software developer, I like creating tools, like this one, to help you learn faster and more clearly.",      
+      "zh-cn": "我现在提供一门为所有级别准备的结构化课程，作为软件开发者，我喜欢创建像这样 的工具，帮助你更快、更清晰地学习。",
+      "ru": "Теперь я представляю структурированный курс, подготовленный для всех уровней, и как разработчик программного обеспечения, мне нравится создавать инструменты, подобные этому, чтобы помочь вам учиться быстрее и яснее."
+    },
+    {
+      "language": "en",
+      "main": "As a teacher, I can proudly say that I'm probably the most patient and easy-going one you'll ever meet, and just try me if you don't believe it.",
+      "en": "As a teacher, I can proudly say that I'm probably the most patient and easy-going one you'll ever meet, and just try me if you don't believe it.",      
+      "zh-cn": "作为一名老师，我可以自豪地说，我可能是你见过的最有耐心、最随和的老师，如果不信的话，试试看就知道了。",
+      "ru": "Как учитель, я могу с гордостью сказать, что я, вероятно, самый терпеливый и спокойный из тех, кого вы когда-либо встречали, и просто попробуйте, если не верите."
+    },
+    {
+      "language": "en",
+      "main": "So… I'd love to know your goals, whether you want to open new doors in the business world, reach an academic goal, or just travel across Hispanic America and fall in love with its landscapes and its culture.",
+      "en": "So… I'd love to know your goals, whether you want to open new doors in the business world, reach an academic goal, or just travel across Hispanic America and fall in love with its landscapes and its culture.",      
+      "zh-cn": "所以…我很想知道你的目标，无论是想在商业世界开启新的大门，达成学术目标，还是只是想游历拉丁美洲，爱上那里的风景和文化。",
+      "ru": "Так что… Я хотел бы узнать ваши цели: хотите ли вы открыть новые двери в деловом мире, достичь академической цели или просто путешествовать по Латинской Америке и влюбиться в ее пейзажи и культуру."
+    },
+    {
+      "language": "en",
+      "main": "Let me know about all of these aspects and we'll adapt my course from day one so you can start practicing exactly what you need from the very start.",
+      "en": "Let me know about all of these aspects and we'll adapt my course from day one so you can start practicing exactly what you need from the very start.",      
+      "zh-cn": "告诉我这些方面的情况，我们会从第一天就调整我的课程，这样你就可以从一开始就练习你真正需要的内容。",
+      "ru": "Расскажите мне обо всех этих аспектах, и мы адаптируем мой курс с первого дня, чтобы вы могли начать практиковать именно то, что вам нужно, с самого начала."
+    },
+    {
+      "language": "es",
+      "main": "Como digo en mi presentación… el español es como una receta, tiene reglas claras y mucha lógica.",
+      "en": "As I say in my presentation… Spanish is like a recipe, it has clear rules and a lot of logic.",
+      "zh-cn": "正如我在介绍中所说…西班牙语就像一个食谱，有明确的规则和很多逻辑。",
+      "ru": "Как я говорю в своей презентации… испанский как рецепт, у него есть четкие правила и много логики."
+    },
+    {
+      "language": "es",
+      "main": "Lo más difícil es empezar y eso ya lo estás haciendo.",
+      "en": "The hardest part is to start and you're already doing it.",
+      "zh-cn": "最难的部分是开始，而你已经在做了。",
+      "ru": "Самое сложное — это начать, и вы уже это делаете."
+    },
+    {
+      "language": "es",
+      "main": "Así que… ¡Nos vemos en clase!",
+      "en": "So… See you in class.",
+      "zh-cn": "所以…课堂上见。",
+      "ru": "Так что… Увидимся на занятии."
+    }
+  ],
+  "flags": {
+    "es": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1280px-Bandera_de_Espa%C3%B1a.svg.png",
+    "en": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/2560px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png",
+    "it": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+    "pt": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1280px-Flag_of_Portugal_%28official%29.svg.png",
+    "fr": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
+    "de": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png",
+    "ru": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1280px-Flag_of_Russia.svg.png",
+    "zh-tw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1280px-Flag_of_the_Republic_of_China.svg.png",
+    "zh-cn": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+  },
+  "languageNames": {
+    "es": "Spanish",
+    "en": "English",
+    "it": "Italian",
+    "pt": "Portuguese",
+    "fr": "French",
+    "de": "German",
+    "ru": "Russian",
+    "zh-cn": "Chinese"
+  }
+}
