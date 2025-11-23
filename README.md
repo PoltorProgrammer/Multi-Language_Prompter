@@ -1,5 +1,7 @@
 # 🌍 Multilingual Subtitle Prompter
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-green?style=for-the-badge)](https://poltorprogrammer.github.io/Multi-Language_Prompter/)
+
 A fullscreen **subtitle-style multilingual prompter** with intelligent timing, dynamic flag display, and smooth typewriter animations. Ideal for presentations, speeches, language learning, and live translation demos.
 
 ---
